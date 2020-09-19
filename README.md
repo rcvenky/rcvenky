@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/rcvenky/rcvenky.svg)](http://hits.dwyl.com/rcvenky/rcvenky)
+
 <!--
 **rcvenky/rcvenky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -12,7 +14,7 @@
  - 👯 I’m looking to collaborate on : Any Coding Works
  - 🤔 I’m looking for help with : Data Structures and Algorithms
  - 💬 Ask me about : Programming
-
+ - 📫 How to reach me: Mail --> rcvenky26@gmail.com
 
 Love to Code and Interested in Learning and Exploring new Ideas..
 
