@@ -1,20 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **rcvenky/rcvenky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# My Gist :
+ My Gist :
 
 
-# - 🔭 I’m currently working on : Web and Mobile Applications
-# - 🌱 I’m currently learning : CPP and Python
-# - 👯 I’m looking to collaborate on : Any Coding Works
-# - 🤔 I’m looking for help with : Data Structures and Algorithms
-# - 💬 Ask me about : Programming
+ - 🔭 I’m currently working on : Web and Mobile Applications
+ - 🌱 I’m currently learning : CPP and Python
+ - 👯 I’m looking to collaborate on : Any Coding Works
+ - 🤔 I’m looking for help with : Data Structures and Algorithms
+ - 💬 Ask me about : Programming
 
 
-# Love to Code and Interested in Learning and Exploring new Ideas..
+Love to Code and Interested in Learning and Exploring new Ideas..
 
 <!--
 # - 📫 How to reach me: [Venkatesh Rajendran](rcvenky26@gmail.com)
