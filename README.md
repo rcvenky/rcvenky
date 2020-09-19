@@ -4,7 +4,7 @@
 **rcvenky/rcvenky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+My Gist :
 
 
 - 🔭 I’m currently working on Web and Mobile Applications
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Venkatesh Rajendran](rcvenky26@gmail.com)
 
 
-. Love to Code and Interested in Learning and Exploring new Ideas..
+# Love to Code and Interested in Learning and Exploring new Ideas..
