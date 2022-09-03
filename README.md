@@ -8,8 +8,8 @@
  My Gist :
 
 
- - 🔭 I’m currently working on : Mobile Applications
- - 🌱 I’m currently learning : CPP and DSA
+ - 🔭 I’m currently working on : Web Devolopment
+ - 🌱 I’m currently learning : React
  - 👯 I’m looking to collaborate on : Any Coding Works
  - 🤔 I’m looking for help with : Data Structures and Algorithms
  - 💬 Ask me about : Programming
