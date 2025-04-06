@@ -8,14 +8,14 @@
  My Gist :
 
 
- - 🔭 I’m currently working on : Java Full Stack Development
- - 🌱 I’m currently learning : Java and React.js
- - 👯 I’m looking to collaborate on : Any Coding Works
- - 🤔 I’m looking for help with : Data Structures and Algorithms
- - 💬 Ask me about : Programming
+ - 🔭 I’m currently working on : Devops, CI/CD and TIBCO Technologies
+ - 🌱 I’m currently learning : New Tech Stacks involved in DevOps Methodology
+ - 👯 I’m looking to collaborate on : Devops and Cloud related Tasks
+ - 🤔 I’m looking for help with : Projects using Devops and Cloud Tech Stacks
+ - 💬 Ask me about : Devops and Cloud
  - 📫 How to reach me: Mail --> rcvenky26@gmail.com
 
-Love to Code and Interested in Learning and Exploring new Ideas..!!
+I'm Interested in Learning and Exploring new Ideas..!!
 
 <!--
 # - 📫 How to reach me: [Venkatesh Rajendran](rcvenky26@gmail.com)
