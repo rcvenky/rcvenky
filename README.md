@@ -8,11 +8,11 @@
  My Gist :
 
 
- - 🔭 I’m currently working on : Devops, CI/CD and TIBCO Technologies
- - 🌱 I’m currently learning : New Tech Stacks involved in DevOps Methodology
- - 👯 I’m looking to collaborate on : Devops and Cloud related Tasks
- - 🤔 I’m looking for help with : Projects using Devops and Cloud Tech Stacks
- - 💬 Ask me about : Devops and Cloud
+ - 🔭 I’m currently working on : Generative AI and AI Related Project
+ - 🌱 I’m currently learning : New Tech Stacks involved in AI Engineering
+ - 👯 I’m looking to collaborate on : AI and ML related Tasks
+ - 🤔 I’m looking for help with : AI related Projects
+ - 💬 Ask me about : AI and ML
  - 📫 How to reach me: Mail --> rcvenky26@gmail.com
 
 I'm Interested in Learning and Exploring new Ideas..!!
